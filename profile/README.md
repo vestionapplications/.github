@@ -145,7 +145,7 @@ Nosso compromisso é continuar investindo em tecnologia e transformar ideias em 
 
 Acompanhe nossos projetos, novidades e atualizações através dos nossos canais oficiais.
 
-- 🎮 **Discord:** [vestioapplications](https://discord.com/users/vestionapplications)
+- 🎮 **Discord:** [vestionapplications](https://discord.com/users/vestionapplications)
 - 📸 **Instagram:** [@vestionapplications](https://instagram.com/vestionapplications)
 - 🎵 **TikTok:** [@vestionapplications](https://tiktok.com/@vestionapplications)
 - 📲 **Telegram:** [vestioapplications](https://t.me/vestionapplications)
